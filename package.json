@@ -1,0 +1,14 @@
+{
+  "name": "buslab-socketio",
+  "version": "0.0.1",
+  "description": "Emmits information to frontend",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4",
+    "ioredis": "^5.3.2"    
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
